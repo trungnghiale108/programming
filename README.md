@@ -1,2 +1,1 @@
-# programming
-Programming Practices
+# Programming Practices
